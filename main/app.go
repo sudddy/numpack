@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println("Calcualtion")
-	result := calc.add(1,2)
+	result := calc.Add(1,2)
 	fmt.Println("result, ", result)
 }
